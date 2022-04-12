@@ -1,0 +1,32 @@
+body {
+    background-image: url("Images/tlo.jpg");
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    text-align: center;
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+
+}
+
+h1 {
+    color: goldenrod;
+    font-weight: 600;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button
+{
+	color: #016f32;
+	width: 150px;
+	background: goldenrod;
+    font-size: large;
+    padding: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
